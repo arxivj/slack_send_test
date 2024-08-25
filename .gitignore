@@ -1,0 +1,38 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.idea/
+
+# Flutter build output
+/build/
+
+# iOS related
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/.generated/
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Android related
+.gradle/
+/android/.gradle/
+/android/app/build/
+/android/.idea/
+
+# Web related
+/web/.dart_tool/
+/web/build/
+
+# macOS related
+.DS_Store
+.packages
+
+# Linux related
+/linux/flutter/ephemeral/
+
+# Windows related
+/windows/flutter/ephemeral/
